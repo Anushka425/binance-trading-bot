@@ -1,0 +1,4 @@
+2026-07-02 11:30:00 - REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-07-02 11:30:01 - RESPONSE: Success - {'orderId': 1234567, 'status': 'FILLED', 'avgPrice': '60000.00'}
+2026-07-02 11:35:00 - REQUEST: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'LIMIT', 'quantity': 0.001, 'price': 60000}
+2026-07-02 11:35:01 - RESPONSE: Success - {'orderId': 1234568, 'status': 'NEW'}
